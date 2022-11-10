@@ -1,3 +1,7 @@
 test branch3 + switch test 1
 
+<<<<<<< HEAD
 master switch test1
+=======
+backend test 1
+>>>>>>> backend
